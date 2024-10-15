@@ -7,6 +7,12 @@ Sys.setenv(LANG = "en")
 # clear workspace
 rm(list = ls())
 
+#Github repo
+#https://github.com/llangevin/Ashton.git
+#git remote add origin https://github.com/llangevin/Ashton.git
+#git branch -M main
+#git push -u origin main
+
 #Set Working Directory to Project Directory
 setwd("~/Projects/Ashton")
 #getwd()
